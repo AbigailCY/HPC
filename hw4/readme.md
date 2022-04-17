@@ -30,23 +30,23 @@ Timings: (inner timing is timing without memcpy between device and host)
 
 **`cuda2`**
 
-<img src="./figs/cuda2.png" alt="cuda2" style="zoom:50%;" />
+<img src="./figs/cuda2.png" alt="cuda2" style="zoom:40%;" />
 
 **`cuda3`** 
 
-<img src="./figs/cuda3.png" alt="cuda3" style="zoom:50%;" />
+<img src="./figs/cuda3.png" alt="cuda3" style="zoom:40%;" />
 
 **`cuda1`** 
 
-<img src="./figs/cuda1.png" alt="cuda1" style="zoom:50%;" />
+<img src="./figs/cuda1.png" alt="cuda1" style="zoom:40%;" />
 
 **`cuda4`** 
 
-<img src="./figs/cuda4.png" alt="cuda4" style="zoom:50%;" />
+<img src="./figs/cuda4.png" alt="cuda4" style="zoom:40%;" />
 
 **`cuda5`** 
 
-<img src="./figs/cuda5.png" alt="cuda5" style="zoom:50%;" />
+<img src="./figs/cuda5.png" alt="cuda5" style="zoom:40%;" />
 
 ### 2. 2D Jacobi method on a GPU. 
 
@@ -60,15 +60,15 @@ Timings:
 
 **`cuda2, N=256`**
 
-<img src="./figs/jacobi2.png" alt="jacobi2" style="zoom:50%;" />
+<img src="./figs/jacobi2.png" alt="jacobi2" style="zoom:40%;" />
 
 **`cuda3, N=256`**
 
-<img src="./figs/jacobi3.png" alt="jacobi3" style="zoom:50%;" />
+<img src="./figs/jacobi3.png" alt="jacobi3" style="zoom:40%;" />
 
 **`cuda3, N=1024`**
 
-<img src="./figs/jacobi3_1024.png" alt="jacobi3_1024" style="zoom:50%;" />
+<img src="./figs/jacobi3_1024.png" alt="jacobi3_1024" style="zoom:40%;" />
 
 ### 3. Update on final projection
 
