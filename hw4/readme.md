@@ -72,3 +72,4 @@ Timings:
 
 ### 3. Update on final projection
 
+We have finished the serial code, but have some trouble on simulating the data. Because matrix inverse is involved in calculation, so when data eigenvalues are big, it is unstable, it's easy to get a nan value from the input.
